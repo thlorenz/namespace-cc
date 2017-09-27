@@ -1,8 +1,8 @@
 # namespace-cc
 
-Namespaces C++ files according to directory structure
+Namespaces C++ files in a directory (non-recursive).
 
-    Usage: namespace-cc <full-path-to-dir> '<space-separated-namespaced>'
+    Usage: namespace-cc <full-path-to-dir> '<space-separated-namespaces>'
 
 ## Installation
 
