@@ -1,6 +1,6 @@
 {
   "name": "namespace-cc",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Namespaces C++ files according to directory structure",
   "main": "namespace-cc.js",
   "scripts": {
